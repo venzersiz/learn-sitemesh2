@@ -1,0 +1,5 @@
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/ # /로 끝나지 않으면 404
+      suffix: .jsp
